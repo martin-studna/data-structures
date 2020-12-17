@@ -8,7 +8,7 @@
       "name": "Python: Current File",
       "type": "python",
       "request": "launch",
-      "program": "${workspaceFolder}/05/matrix_transpose_test.py",
+      "program": "${workspaceFolder}/07/cuckoo_hash_test.py",
       "console": "integratedTerminal"
     }
   ]
